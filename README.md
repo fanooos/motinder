@@ -12,6 +12,6 @@ To put the script into action follow the following steps.
 
 3- Add a cron job that execute the motinder.sh script each 5 or 10 minutes as suites you.
 
-    `*/5 * * * * sh /home/me/motinder.sh`
+    `*/5 * * * * export DISPLAY=:0.0 && sh /home/fanooos/motinder/motinder.sh`
 
 
