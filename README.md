@@ -2,7 +2,7 @@
 
 A simple bash script to remide me with some motivational quotes.
 
-The script simple get a random quote from a file named quotes and display a notification using the Ubuntu notify-send functionality.
+The script simply gets a random quote from a file named quotes and display a notification using the Ubuntu notify-send.
 
 To put the script into action follow the following steps.
 
